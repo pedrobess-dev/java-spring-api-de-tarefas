@@ -1,2 +1,2 @@
-# java-spring-simple-api
- Simple API with Java Spring Boot
+# java-spring-api-de-tarefas
+ API de tarefas desenvolvida com Java Spring Boot
