@@ -44,7 +44,7 @@ Simples API de tarefas desenvolvida com Java e Spring Boot, permitindo a criaç�
 
 ## Endpoints Principais
 
-- **GET /tarefas**: Lista todas as tarefas do usuário autenticado.
+- **GET /tarefas**: Lista todas as tarefas.
 - **POST /tarefas**: Cria uma nova tarefa.
 - **PUT /tarefas/{tarefa_id}**: Atualiza uma tarefa existente.
 - **DELETE /tarefas/{tarefa_id}**: Remove uma tarefa.
