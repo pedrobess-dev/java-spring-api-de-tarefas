@@ -64,4 +64,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
- 
+
+## Autor
+
+Pedro Bessão - [pedrobess-dev](https://github.com/pedrobess-dev)
